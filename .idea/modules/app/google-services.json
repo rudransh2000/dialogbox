@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753675531492",
+    "project_id": "dialogbox-de997",
+    "storage_bucket": "dialogbox-de997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753675531492:android:d97e14f45113f58402e8f1",
+        "android_client_info": {
+          "package_name": "com.example.dialogbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753675531492-h46nvolqkku7jn7e0n97co03mqtn78sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dialogbox",
+            "certificate_hash": "6cbfa92e418a0d79e6c6103521fc8074bb6c92d3"
+          }
+        },
+        {
+          "client_id": "753675531492-vk9g3v7pvslh2mm1temt1ltkq0khosf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgrN5Qn8Sv8oof2ntBgQSnLuw9NvAutRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753675531492-vk9g3v7pvslh2mm1temt1ltkq0khosf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
