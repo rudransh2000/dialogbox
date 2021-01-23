@@ -47,6 +47,7 @@ public class myadapter extends RecyclerView.Adapter<myadapter.myviewholder> {
             img=itemView.findViewById(R.id.img);
             btn=itemView.findViewById(R.id.btn);
 
+
             img.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
