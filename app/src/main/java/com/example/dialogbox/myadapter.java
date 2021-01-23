@@ -62,7 +62,6 @@ public class myadapter extends RecyclerView.Adapter<myadapter.myviewholder> {
             });
 
 
-
         }
         void openn(){
             int pos = this.getAdapterPosition();
